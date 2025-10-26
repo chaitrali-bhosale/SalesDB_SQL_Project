@@ -15,6 +15,7 @@ VALUES
 ('John Doe', 'New York', 'john.doe@example.com'),
 ('Jane Smith', 'Los Angeles', 'jane.smith@yahoo.com'),
 ('Michael Brown', 'Chicago', 'michael.brown@yahoo.com'),
-('Rohit Patil', 'Delhi', 'rohit@gmail.com');
+('Rohit Patil', 'Delhi', 'rohit@gmail.com')
+('Rohini Kadam', 'Nagpur', 'rohini@gmail.com');
 
 select * from customer;
